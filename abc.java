@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 import java.regex.*;
 import java.util.*;
 import java.io.*;
