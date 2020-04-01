@@ -4,6 +4,6 @@ import java.io.*;
 import java.util.function.*;
 public class Employee{
 	public static void main(String... args){
-		int c=300;
+		int b=200;int c=300;
 	}
 }
